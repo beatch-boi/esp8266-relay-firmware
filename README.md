@@ -15,8 +15,6 @@ It lets you control a relay over WiFi, set up schedules, and manage settings via
 
 ## Screenshot
 
-*Web interface preview (add your screenshot here):*
-
 ![Web UI Screenshot](docs/screenshot.png)
 
 ## Getting Started
